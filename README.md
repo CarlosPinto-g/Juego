@@ -1,4 +1,4 @@
-# Montate en mi motora acertijo python programacín visual estudio play juego nota 
+# Montate en mi motora acertijo python programación visual estudio play juego nota 
 
 ## ❄ Explicación del codigo del juego 
 
